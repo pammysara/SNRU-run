@@ -60,4 +60,4 @@ public class SignUp extends AppCompatActivity {
 
     }
 
-}   //Mainclass
+}   //Main Class
