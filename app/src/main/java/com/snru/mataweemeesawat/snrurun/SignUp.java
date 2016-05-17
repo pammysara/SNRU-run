@@ -52,6 +52,7 @@ public class SignUp extends AppCompatActivity {
                     case R.id.radioButton5:
                         avataString = "4";
                         break;
+
                 }
 
             }
